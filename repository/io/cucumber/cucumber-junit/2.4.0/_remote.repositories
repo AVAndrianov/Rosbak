@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:00 MSK 2018
+cucumber-junit-2.4.0.pom>central=
+cucumber-junit-2.4.0.pom>nexus=
+cucumber-junit-2.4.0.jar>nexus=
+cucumber-junit-2.4.0.jar>central=

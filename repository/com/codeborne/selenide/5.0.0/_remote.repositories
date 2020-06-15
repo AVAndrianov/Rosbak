@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+selenide-5.0.0.pom>nexus=
+selenide-5.0.0.jar>nexus=
+selenide-5.0.0.jar>central=
+selenide-5.0.0.pom>central=

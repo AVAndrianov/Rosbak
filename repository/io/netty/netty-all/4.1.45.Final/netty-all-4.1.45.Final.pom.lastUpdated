@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 17 16:42:59 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584452579947
+http\://nexus/repository/maven-public/.error=Could not transfer artifact io.netty\:netty-all\:pom\:4.1.45.Final from/to nexus (http\://nexus/repository/maven-public/)\: nexus

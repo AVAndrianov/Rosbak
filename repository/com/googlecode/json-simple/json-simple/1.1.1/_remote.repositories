@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 25 17:11:30 MSK 2018
+json-simple-1.1.1.pom>nexus=
+json-simple-1.1.1.jar>central=
+json-simple-1.1.1.jar>nexus=
+json-simple-1.1.1.pom>central=

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 18 11:50:40 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584521440560
+http\://nexus/repository/maven-public/.error=Could not transfer artifact com.codeborne\:selenide\:pom\:5.5.0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

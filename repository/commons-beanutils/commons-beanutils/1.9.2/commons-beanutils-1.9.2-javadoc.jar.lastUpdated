@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 17 12:36:35 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584437795028
+http\://nexus/repository/maven-public/.error=Could not transfer artifact commons-beanutils\:commons-beanutils\:jar\:javadoc\:1.9.2 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

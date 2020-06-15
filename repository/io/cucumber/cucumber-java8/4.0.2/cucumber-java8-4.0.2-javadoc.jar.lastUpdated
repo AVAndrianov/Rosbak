@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 05 15:15:14 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554466514635
+http\://nexus/repository/maven-public/.error=Could not transfer artifact io.cucumber\:cucumber-java8\:jar\:javadoc\:4.0.2 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

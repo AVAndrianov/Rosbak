@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 18 04:08:13 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1550452093324
+http\://nexus/repository/maven-public/.error=Could not transfer artifact com.github.klieber\:phantomjs\:pom\:2.0.0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

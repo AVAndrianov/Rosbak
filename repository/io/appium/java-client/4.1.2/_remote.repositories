@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:00 MSK 2018
+java-client-4.1.2.jar>central=
+java-client-4.1.2.pom>nexus=
+java-client-4.1.2.pom>central=
+java-client-4.1.2.jar>nexus=

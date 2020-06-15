@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+netty-all-4.0.51.Final.jar>central=
+netty-all-4.0.51.Final.pom>central=
+netty-all-4.0.51.Final.pom>nexus=
+netty-all-4.0.51.Final.jar>nexus=

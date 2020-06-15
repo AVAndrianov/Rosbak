@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 04 14:34:57 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554377697645
+http\://nexus/repository/maven-public/.error=Could not transfer artifact com.github.jsimone\:webapp-runner\:jar\:8.0.30.2 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

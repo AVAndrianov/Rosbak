@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 05 15:15:16 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554466516749
+http\://nexus/repository/maven-public/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:javadoc\:11.2.0.4 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

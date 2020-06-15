@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+gherkin-jvm-deps-1.0.4.pom>central=
+gherkin-jvm-deps-1.0.4.jar>nexus=
+gherkin-jvm-deps-1.0.4.pom>nexus=
+gherkin-jvm-deps-1.0.4.jar>central=

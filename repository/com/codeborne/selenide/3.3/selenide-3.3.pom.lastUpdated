@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 17 16:28:03 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584451683842
+http\://nexus/repository/maven-public/.error=Could not transfer artifact com.codeborne\:selenide\:pom\:3.3 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

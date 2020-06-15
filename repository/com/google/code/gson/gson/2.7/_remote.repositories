@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:00 MSK 2018
+gson-2.7.jar>central=
+gson-2.7.pom>nexus=
+gson-2.7.jar>nexus=
+gson-2.7.pom>central=

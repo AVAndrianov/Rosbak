@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:20 MSK 2018
+guava-22.0-android.pom>nexus=
+guava-22.0-android.jar>nexus=
+guava-22.0-android.jar>central=
+guava-22.0-android.pom>central=

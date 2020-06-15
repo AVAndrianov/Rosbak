@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 05 15:15:13 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554466513902
+http\://nexus/repository/maven-public/.error=Could not transfer artifact avalon-framework\:avalon-framework\:jar\:4.1.3 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

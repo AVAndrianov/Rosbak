@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 04 13:48:02 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554374882558
+http\://nexus/repository/maven-public/.error=Could not transfer artifact io.rest-assured\:rest-assured\:pom\:3.3\n                .0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known
