@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 06 15:49:10 MSK 2018
+maven-aether-provider-3.0.jar>nexus=
+maven-aether-provider-3.0.jar>central=
+maven-aether-provider-3.0.pom>central=
+maven-aether-provider-3.0.pom>nexus=

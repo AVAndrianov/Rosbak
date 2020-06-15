@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:04 MSK 2018
+maven-repository-metadata-2.0.6.pom>central=
+maven-repository-metadata-2.0.6.pom>nexus=
+maven-repository-metadata-2.0.6.jar>nexus=
+maven-repository-metadata-2.0.6.jar>central=

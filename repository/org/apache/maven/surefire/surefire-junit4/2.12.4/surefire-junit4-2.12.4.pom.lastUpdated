@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Mar 18 14:09:23 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584529763258
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-junit4\:pom\:2.12.4 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

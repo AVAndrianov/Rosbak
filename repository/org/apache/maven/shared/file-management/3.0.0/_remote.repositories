@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 07 13:22:25 MSK 2018
+file-management-3.0.0.jar>nexus=
+file-management-3.0.0.pom>central=
+file-management-3.0.0.jar>central=
+file-management-3.0.0.pom>nexus=

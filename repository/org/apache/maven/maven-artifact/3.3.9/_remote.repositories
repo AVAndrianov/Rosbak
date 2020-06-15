@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 23 13:38:34 MSK 2019
+maven-artifact-3.3.9.pom>nexus=
+maven-artifact-3.3.9.jar>nexus=
+maven-artifact-3.3.9.jar>central=
+maven-artifact-3.3.9.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:09 MSK 2018
+maven-surefire-common-2.20.jar>nexus=
+maven-surefire-common-2.20.pom>nexus=
+maven-surefire-common-2.20.jar>central=
+maven-surefire-common-2.20.pom>central=

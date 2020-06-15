@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 17 14:36:56 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584445016343
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:javadoc\:4.5.2 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

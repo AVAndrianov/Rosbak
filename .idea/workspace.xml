@@ -1,326 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a96797b-52cc-4bff-a88a-14ad36885c82" name="Default Changelist" comment="POM2">
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/activation/1.1.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/activation/1.1.1/activation-1.1.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/activation/1.1.1/activation-1.1.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/javax.activation-api/1.2.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/javax.annotation-api/1.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/javax.annotation-api/1.2/javax.annotation-api-1.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/jsr250-api/1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/annotation/jsr250-api/1.0/jsr250-api-1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/enterprise/cdi-api/1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/enterprise/cdi-api/1.0/cdi-api-1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/inject/javax.inject/1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/inject/javax.inject/1/javax.inject-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/inject/javax.inject/1/javax.inject-1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/inject/javax.inject/1/javax.inject-1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/inject/javax.inject/1/javax.inject-1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/persistence/javax.persistence-api/2.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/persistence/javax.persistence-api/2.2/javax.persistence-api-2.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/javax.servlet-api/3.1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.3/servlet-api-2.3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/transaction/javax.transaction-api/1.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/transaction/javax.transaction-api/1.2/javax.transaction-api-1.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/validation/validation-api/1.1.0.Final/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/xml/bind/jaxb-api/2.2.12/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/javax/xml/bind/jaxb-api/2.2.12/jaxb-api-2.2.12.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jdom/jdom/1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jdom/jdom/1.0/jdom-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jdom/jdom/1.0/jdom-1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jdom/jdom/1.0/jdom-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jdom/jdom/1.0/jdom-1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jtidy/jtidy/4aug2000r7-dev/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/jtidy/jtidy/4aug2000r7-dev/jtidy-4aug2000r7-dev.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.1/junit-3.8.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.1/junit-3.8.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.1/junit-3.8.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.1/junit-3.8.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.2/junit-3.8.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.2/junit-3.8.2.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.2/junit-3.8.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/3.8.2/junit-3.8.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.10/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.10/junit-4.10.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.10/junit-4.10.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.10/junit-4.10.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.10/junit-4.10.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.11/junit-4.11.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/junit-4.12-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/junit-4.12-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/junit-4.12.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/junit-4.12.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.12/junit-4.12.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/4.13/junit-4.13.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/junit/junit/resolver-status.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.12/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.12/log4j-1.2.12.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.12/log4j-1.2.12.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/log4j-1.2.17-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/log4j-1.2.17.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/log4j-1.2.17.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/log4j/log4j/1.2.17/log4j-1.2.17.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/logkit/logkit/1.0.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/logkit/logkit/1.0.1/logkit-1.0.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/logkit/logkit/1.0.1/logkit-1.0.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.7.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.7.5/byte-buddy-parent-1.7.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.7.5/byte-buddy-parent-1.7.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.7.9/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.7.9/byte-buddy-parent-1.7.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.7.9/byte-buddy-parent-1.7.9.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.15/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.15/byte-buddy-parent-1.8.15.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.15/byte-buddy-parent-1.8.15.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.17/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.17/byte-buddy-parent-1.8.17.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.17/byte-buddy-parent-1.8.17.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.3/byte-buddy-parent-1.8.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy-parent/1.8.3/byte-buddy-parent-1.8.3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.7.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.7.5/byte-buddy-1.7.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.7.9/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.7.9/byte-buddy-1.7.9.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.15/byte-buddy-1.8.15.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.17/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.17/byte-buddy-1.8.17.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/bytebuddy/byte-buddy/1.8.3/byte-buddy-1.8.3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna-platform/4.1.0/jna-platform-4.1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/3.3.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/3.3.0/jna-3.3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/3.3.0/jna-3.3.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/3.3.0/jna-3.3.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/3.3.0/jna-3.3.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/dev/jna/jna/4.1.0/jna-4.1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/1/jvnet-parent-1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/1/jvnet-parent-1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/3/jvnet-parent-3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/3/jvnet-parent-3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/4/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/4/jvnet-parent-4.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/4/jvnet-parent-4.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/5/jvnet-parent-5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/java/jvnet-parent/5/jvnet-parent-5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/typetools-0.5.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/typetools-0.5.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/typetools-0.5.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/typetools-0.5.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/typetools-0.5.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/jodah/typetools/0.5.0/typetools-0.5.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/browsermob-core-littleproxy-2.1.0-beta-6-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/browsermob-core-littleproxy-2.1.0-beta-6-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/browsermob-core-littleproxy-2.1.0-beta-6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/browsermob-core-littleproxy-2.1.0-beta-6.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/browsermob-core-littleproxy-2.1.0-beta-6.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core-littleproxy/2.1.0-beta-6/browsermob-core-littleproxy-2.1.0-beta-6.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.0-beta-6/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.0-beta-6/browsermob-core-2.1.0-beta-6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.0-beta-6/browsermob-core-2.1.0-beta-6.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.0-beta-6/browsermob-core-2.1.0-beta-6.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.0-beta-6/browsermob-core-2.1.0-beta-6.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/browsermob-core-2.1.5-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/browsermob-core-2.1.5-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/browsermob-core-2.1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/browsermob-core-2.1.5.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/browsermob-core-2.1.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-core/2.1.5/browsermob-core-2.1.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-proxy/2.1.0-beta-6/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-proxy/2.1.0-beta-6/browsermob-proxy-2.1.0-beta-6.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-proxy/2.1.0-beta-6/browsermob-proxy-2.1.0-beta-6.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-proxy/2.1.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-proxy/2.1.5/browsermob-proxy-2.1.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/browsermob-proxy/2.1.5/browsermob-proxy-2.1.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-12/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-12/littleproxy-1.1.0-beta-bmp-12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-12/littleproxy-1.1.0-beta-bmp-12.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-12/littleproxy-1.1.0-beta-bmp-12.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-12/littleproxy-1.1.0-beta-bmp-12.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/littleproxy-1.1.0-beta-bmp-17-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/littleproxy-1.1.0-beta-bmp-17-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/littleproxy-1.1.0-beta-bmp-17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/littleproxy-1.1.0-beta-bmp-17.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/littleproxy-1.1.0-beta-bmp-17.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/littleproxy/1.1.0-beta-bmp-17/littleproxy-1.1.0-beta-bmp-17.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.0-beta-6/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.0-beta-6/mitm-2.1.0-beta-6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.0-beta-6/mitm-2.1.0-beta-6.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.0-beta-6/mitm-2.1.0-beta-6.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.0-beta-6/mitm-2.1.0-beta-6.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/mitm-2.1.5-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/mitm-2.1.5-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/mitm-2.1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/mitm-2.1.5.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/mitm-2.1.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lightbody/bmp/mitm/2.1.5/mitm-2.1.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lingala/zip4j/zip4j/1.3.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/lingala/zip4j/zip4j/1.3.2/zip4j-1.3.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/qualitycheck/quality-check/1.3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/qualitycheck/quality-check/1.3/quality-check-1.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/qualitycheck/quality-check/1.3/quality-check-1.3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/qualitycheck/quality-parent/1.3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/qualitycheck/quality-parent/1.3/quality-parent-1.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/qualitycheck/quality-parent/1.3/quality-parent-1.3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-core/0.9.22/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-core/0.9.22/uadetector-core-0.9.22.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-core/0.9.22/uadetector-core-0.9.22.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-parent/2014.10/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-parent/2014.10/uadetector-parent-2014.10.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-parent/2014.10/uadetector-parent-2014.10.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-resources/2014.10/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-resources/2014.10/uadetector-resources-2014.10.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sf/uadetector/uadetector-resources/2014.10/uadetector-resources-2014.10.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.18/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.18/cssparser-0.9.18.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.18/cssparser-0.9.18.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.22/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.22/cssparser-0.9.22.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.22/cssparser-0.9.22.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.22/cssparser-0.9.22.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.22/cssparser-0.9.22.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.5/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/cssparser/cssparser/0.9.5/cssparser-0.9.5.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.17/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.17/htmlunit-core-js-2.17.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.17/htmlunit-core-js-2.17.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.26/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.26/htmlunit-core-js-2.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.26/htmlunit-core-js-2.26.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.26/htmlunit-core-js-2.26.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.26/htmlunit-core-js-2.26.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.9/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.9/htmlunit-core-js-2.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.9/htmlunit-core-js-2.9.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.9/htmlunit-core-js-2.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit-core-js/2.9/htmlunit-core-js-2.9.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.21/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.21/htmlunit-2.21.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.21/htmlunit-2.21.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.26/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.26/htmlunit-2.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.26/htmlunit-2.26.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.26/htmlunit-2.26.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.26/htmlunit-2.26.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.9/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.9/htmlunit-2.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.9/htmlunit-2.9.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.9/htmlunit-2.9.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/htmlunit/2.9/htmlunit-2.9.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.21/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.21/neko-htmlunit-2.21.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.21/neko-htmlunit-2.21.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.25/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.25/neko-htmlunit-2.25.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.25/neko-htmlunit-2.25.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.25/neko-htmlunit-2.25.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/htmlunit/neko-htmlunit/2.25/neko-htmlunit-2.25.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/nekohtml/nekohtml/1.9.15/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/nekohtml/nekohtml/1.9.15/nekohtml-1.9.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/nekohtml/nekohtml/1.9.15/nekohtml-1.9.15.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/nekohtml/nekohtml/1.9.15/nekohtml-1.9.15.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/net/sourceforge/nekohtml/nekohtml/1.9.15/nekohtml-1.9.15.pom.sha1" afterDir="false" />
+    <list default="true" id="1a96797b-52cc-4bff-a88a-14ad36885c82" name="Default Changelist" comment="POM4">
       <change afterPath="$PROJECT_DIR$/repository/org/apache-extras/beanshell/bsh/2.0b6/_remote.repositories" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/repository/org/apache-extras/beanshell/bsh/2.0b6/bsh-2.0b6.jar.sha1" afterDir="false" />
@@ -4851,147 +4532,6 @@
       <change afterPath="$PROJECT_DIR$/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar.sha1" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.pom" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/repository/org/yaml/snakeyaml/1.17/snakeyaml-1.17.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/oro/oro/2.0.8/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/oro/oro/2.0.8/oro-2.0.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/oro/oro/2.0.8/oro-2.0.8.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/oro/oro/2.0.8/oro-2.0.8.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/oro/oro/2.0.8/oro-2.0.8.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/java-properties-to-json-3.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/java-properties-to-json-3.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/java-properties-to-json-3.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/java-properties-to-json-3.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/java-properties-to-json-3.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/pl/jalokim/propertiestojson/java-properties-to-json/3.0/java-properties-to-json-3.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/plexus/plexus-containers/1.0.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/plexus/plexus-containers/1.0.2/plexus-containers-1.0.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/plexus/plexus-containers/1.0.2/plexus-containers-1.0.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/plexus/plexus-root/1.0.3/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/plexus/plexus-root/1.0.3/plexus-root-1.0.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/plexus/plexus-root/1.0.3/plexus-root-1.0.3.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/alfabank/tests/akita/3.5.6/akita-3.5.6.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/alfabank/tests/akita/3.5.6/akita-3.5.6.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/alfalab/gradle/cucumber-parallel-test-gradle-plugin/0.3.1/cucumber-parallel-test-gradle-plugin-0.3.1.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/alfalab/gradle/cucumber-parallel-test-gradle-plugin/0.3.1/cucumber-parallel-test-gradle-plugin-0.3.1.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/alfalab/gradle/cucumber-reporting-gradle-plugin/0.1.0/cucumber-reporting-gradle-plugin-0.1.0.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/alfalab/gradle/cucumber-reporting-gradle-plugin/0.1.0/cucumber-reporting-gradle-plugin-0.1.0.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/htmlelements-java-1.17-JAVA7-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/htmlelements-java-1.17-JAVA7-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/htmlelements-java-1.17-JAVA7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/htmlelements-java-1.17-JAVA7.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/htmlelements-java-1.17-JAVA7.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements-java/1.17-JAVA7/htmlelements-java-1.17-JAVA7.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements/1.17-JAVA7/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements/1.17-JAVA7/htmlelements-1.17-JAVA7.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/htmlelements/htmlelements/1.17-JAVA7/htmlelements-1.17-JAVA7.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/monte-media/1.1.0-JAVA7/monte-media-1.1.0-JAVA7.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/allure-helper-1.4.1-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/allure-helper-1.4.1-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/allure-helper-1.4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/allure-helper-1.4.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/allure-helper-1.4.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/allure-helper/1.4.1/allure-helper-1.4.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/datajack-1.2.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/datajack-1.2.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/datajack-1.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/datajack-1.2.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/datajack-1.2.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.2.0/datajack-1.2.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.4.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.4.0/datajack-1.4.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.4.0/datajack-1.4.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.4.0/datajack-1.4.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/1.4.0/datajack-1.4.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/datajack-excel-adaptor-1.1.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/datajack-excel-adaptor-1.1.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/datajack-excel-adaptor-1.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/datajack-excel-adaptor-1.1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/datajack-excel-adaptor-1.1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-excel-adaptor/1.1.0/datajack-excel-adaptor-1.1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/datajack-json-adaptor-1.1.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/datajack-json-adaptor-1.1.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/datajack-json-adaptor-1.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/datajack-json-adaptor-1.1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/datajack-json-adaptor-1.1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-json-adaptor/1.1.0/datajack-json-adaptor-1.1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/datajack-properties-adaptor-1.0.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/datajack-properties-adaptor-1.0.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/datajack-properties-adaptor-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/datajack-properties-adaptor-1.0.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/datajack-properties-adaptor-1.0.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/datajack/adaptors/datajack-properties-adaptor/1.0.0/datajack-properties-adaptor-1.0.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/page-factory-1.12.0-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/page-factory-1.12.0-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/page-factory-1.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/page-factory-1.12.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/page-factory-1.12.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/page-factory/1.12.0/page-factory-1.12.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.1.0/qa-utils-1.1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.1.0/qa-utils-1.1.0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.1.0/qa-utils-1.1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.1.0/qa-utils-1.1.0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/qa-utils-1.3.1-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/qa-utils-1.3.1-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/qa-utils-1.3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/qa-utils-1.3.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/qa-utils-1.3.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/qa-utils/1.3.1/qa-utils-1.3.1.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/video-recorder-1.0.6-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/video-recorder-1.0.6-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/video-recorder-1.0.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/video-recorder-1.0.6.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/video-recorder-1.0.6.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/tag/video-recorder/1.0.6/video-recorder-1.0.6.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/webdrivermanager-2.2.2-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/webdrivermanager-2.2.2-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/webdrivermanager-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/webdrivermanager-2.2.2.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/webdrivermanager-2.2.2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/sbtqa/webdrivermanager/2.2.2/webdrivermanager-2.2.2.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/autotest/EFR/1/EFR-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/autotest/EFR/1/EFR-1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/autotest/EFR/1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/autotest/EFR/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/efrstubs-copy/1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/efrstubs-copy/1.0/efrstubs-copy-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/efrstubs-copy/1.0/efrstubs-copy-1.0.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/efrstubs-copy/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/stubs/1.0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/stubs/1.0/stubs-1.0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/stubs/1.0/stubs-1.0.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/vtb/stubs/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/yandex/qatools/allure/allure-maven-plugin/2.5/allure-maven-plugin-2.5.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/ru/yandex/qatools/allure/allure-testng-adaptor/1.4.17/allure-testng-adaptor-1.4.17.pom.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/sslext/sslext/1.2-0/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/sslext/sslext/1.2-0/sslext-1.2-0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/sslext/sslext/1.2-0/sslext-1.2-0.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/sslext/sslext/1.2-0/sslext-1.2-0.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/sslext/sslext/1.2-0/sslext-1.2-0.pom.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/stax-api-1.0.1-sources.jar.lastUpdated" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/stax-api-1.0.1.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/stax/stax-api/1.0.1/stax-api-1.0.1.pom.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -5009,7 +4549,11 @@
     <leaf>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/settings.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -5095,14 +4639,27 @@
       <option name="project" value="LOCAL" />
       <updated>1592219721817</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="POM3">
+      <created>1592221445247</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592221445247</updated>
+    </task>
+    <task id="LOCAL-00004" summary="POM4">
+      <created>1592222858664</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592222858664</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25358167" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -5116,9 +4673,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32891566" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -5134,11 +4691,18 @@
     <MESSAGE value="POM" />
     <MESSAGE value="POM1" />
     <MESSAGE value="POM2" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM2" />
+    <MESSAGE value="POM3" />
+    <MESSAGE value="POM4" />
+    <MESSAGE value="POM5" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM5" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/settings.xml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">

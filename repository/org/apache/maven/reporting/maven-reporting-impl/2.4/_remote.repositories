@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jan 23 13:38:34 MSK 2019
+maven-reporting-impl-2.4.jar>central=
+maven-reporting-impl-2.4.pom>central=
+maven-reporting-impl-2.4.pom>nexus=
+maven-reporting-impl-2.4.jar>nexus=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+commons-compress-1.9.pom>nexus=
+commons-compress-1.9.jar>nexus=
+commons-compress-1.9.jar>central=
+commons-compress-1.9.pom>central=
