@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 05 15:15:16 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554466516711
+http\://nexus/repository/maven-public/.error=Could not transfer artifact net.jodah\:typetools\:jar\:sources\:0.5.0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

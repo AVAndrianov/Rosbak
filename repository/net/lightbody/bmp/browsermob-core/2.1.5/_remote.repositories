@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+browsermob-core-2.1.5.jar>nexus=
+browsermob-core-2.1.5.jar>central=
+browsermob-core-2.1.5.pom>central=
+browsermob-core-2.1.5.pom>nexus=

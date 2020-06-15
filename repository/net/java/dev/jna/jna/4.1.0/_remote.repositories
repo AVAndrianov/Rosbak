@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+jna-4.1.0.jar>central=
+jna-4.1.0.pom>central=
+jna-4.1.0.pom>nexus=
+jna-4.1.0.jar>nexus=
