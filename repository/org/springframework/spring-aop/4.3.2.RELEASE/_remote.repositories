@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:00 MSK 2018
+spring-aop-4.3.2.RELEASE.jar>central=
+spring-aop-4.3.2.RELEASE.pom>nexus=
+spring-aop-4.3.2.RELEASE.jar>nexus=
+spring-aop-4.3.2.RELEASE.pom>central=

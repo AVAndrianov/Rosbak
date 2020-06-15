@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 05 22:33:43 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1554492823716
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.openqa.selenium.client-drivers\:selenium-java-client-driver\:pom\:0.9.2 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

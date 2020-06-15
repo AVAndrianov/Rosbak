@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 17 14:25:53 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584444353902
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-java\:pom\:3.13.0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus

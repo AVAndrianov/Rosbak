@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:01 MSK 2018
+bcpkix-jdk15on-1.58.jar>nexus=
+bcpkix-jdk15on-1.58.pom>central=
+bcpkix-jdk15on-1.58.jar>central=
+bcpkix-jdk15on-1.58.pom>nexus=

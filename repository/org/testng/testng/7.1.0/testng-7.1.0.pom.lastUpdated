@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Mar 22 10:22:10 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584861730449
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.testng\:testng\:pom\:7.1.0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

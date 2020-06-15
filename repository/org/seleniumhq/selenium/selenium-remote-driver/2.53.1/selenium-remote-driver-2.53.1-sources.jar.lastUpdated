@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Mar 17 14:36:55 MSK 2020
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1584445015704
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-remote-driver\:jar\:sources\:2.53.1 from/to nexus (http\://nexus/repository/maven-public/)\: nexus\: nodename nor servname provided, or not known

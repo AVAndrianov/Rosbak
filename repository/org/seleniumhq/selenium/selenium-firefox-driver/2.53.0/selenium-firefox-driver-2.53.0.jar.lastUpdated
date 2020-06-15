@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 18 03:37:05 MSK 2019
+@default-nexus-http\://nexus/repository/maven-public/.lastUpdated=1550450225837
+http\://nexus/repository/maven-public/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-firefox-driver\:jar\:2.53.0 from/to nexus (http\://nexus/repository/maven-public/)\: nexus
