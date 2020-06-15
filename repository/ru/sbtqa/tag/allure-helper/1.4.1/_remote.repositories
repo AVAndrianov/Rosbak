@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 28 14:18:00 MSK 2018
+allure-helper-1.4.1.jar>nexus=
+allure-helper-1.4.1.jar>central=
+allure-helper-1.4.1.pom>central=
+allure-helper-1.4.1.pom>nexus=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 12 15:30:18 MSK 2018
+stubs-1.0.pom>=
+stubs-1.0.war>=
